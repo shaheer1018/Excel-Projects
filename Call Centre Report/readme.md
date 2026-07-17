@@ -1,4 +1,7 @@
 
+![Uploading image.png…]()
+
+
 The primary objective of this project was to transform raw customer service and sales call data into a strategic, easy-to-read asset for management and operational leaders.
 ## Key Features & Visualizations
 ### High-Level KPI Cards: 
