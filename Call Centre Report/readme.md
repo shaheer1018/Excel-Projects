@@ -1,5 +1,6 @@
 
-![Uploading image.png…]()
+<img width="1551" height="689" alt="image" src="https://github.com/user-attachments/assets/29d8c411-8e27-4a11-b81c-44f2461098f0" />
+
 
 
 The primary objective of this project was to transform raw customer service and sales call data into a strategic, easy-to-read asset for management and operational leaders.
